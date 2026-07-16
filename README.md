@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn
+- 💼 LinkedIn: https://www.linkedin.com/in/jeevi-raj-3bb912338
 - 📧 Email: jeevicyber28@gmail.com
 
 ⭐ Thanks for visiting my profile!
