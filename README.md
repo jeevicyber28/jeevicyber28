@@ -3,7 +3,11 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
 
+<!-- Profile Photo -->
+<img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/jeeviraj_image.png" width="160" style="border-radius:50%; border:4px solid #00ff9c; box-shadow: 0 0 20px #00ff9c;" alt="Jeeviraj V"/>
+
 <!-- Typing Animation -->
+<br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%94%90;Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Learning+Threat+Hunting+%26+Digital+Forensics" alt="Typing SVG" />
 </a>
