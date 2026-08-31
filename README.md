@@ -51,3 +51,10 @@
 - 📧 Email: jeevicyber28@gmail.com
 
 ⭐ Thanks for visiting my profile!
+---
+
+## 3D GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" width="900">
+</p>
