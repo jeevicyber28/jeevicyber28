@@ -267,6 +267,7 @@ Hands-on exposure to **cryptography** (MD5 collisions, Mersenne Twister state re
 
 ---
 
+
 <div align="center">
 
 > _"The quieter you become, the more you are able to hear."_
