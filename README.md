@@ -202,6 +202,7 @@ Hands-on exposure to **cryptography** (MD5 collisions, Mersenne Twister state re
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jeevicyber28&show_icons=true&theme=react&hide_border=true&bg_color=0f2027&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&count_private=true" alt="GitHub Stats" height="165"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevicyber28&layout=compact&theme=react&hide_border=true&bg_color=0f2027&title_color=00ff9c&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
 <br/>
@@ -256,9 +257,11 @@ Hands-on exposure to **cryptography** (MD5 collisions, Mersenne Twister state re
 <a href="https://www.linkedin.com/in/jeevi-raj-3bb912338">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:jeevicyber28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/jeevicyber28">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -267,10 +270,10 @@ Hands-on exposure to **cryptography** (MD5 collisions, Mersenne Twister state re
 
 ---
 
-
 <div align="center">
 
 > _"The quieter you become, the more you are able to hear."_
+>
 > — A reminder to observe, analyze, and defend with precision.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
