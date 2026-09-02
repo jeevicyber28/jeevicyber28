@@ -1,18 +1,11 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<!-- ===================== INTRO ===================== -->
-
-<table>
-<tr>
-
-<td width="65%" valign="middle" align="center">
-
+<!-- Profile Photo -->
 <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/jeeviraj_image.png"
      width="160"
      style="border-radius:50%; border:4px solid #00ff9c; box-shadow:0 0 20px #00ff9c;"
@@ -20,11 +13,15 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%94%90;Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Learning+Threat+Hunting+%26+Digital+Forensics"
-     alt="Typing SVG"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%94%90;Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Learning+Threat+Hunting+%26+Digital+Forensics"
+       alt="Typing SVG"/>
+</a>
 
 <br/><br/>
 
+<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=jeevicyber28&label=Profile%20Views&color=00ff9c&style=for-the-badge"
      alt="Profile Views"/>
 
@@ -34,30 +31,13 @@
 <img src="https://img.shields.io/badge/Status-Learning%20SOC%20Ops-0f2027?style=for-the-badge&logo=linux&logoColor=00ff9c"
      alt="Status"/>
 
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="./panda.png" width="260" alt="Cute Panda"/>
+</div>
 
 <br/>
 
-<b>🐼 Cybersecurity Learner</b>
-
-<br/><br/>
-
-<sub>Learn • Break • Secure • Repeat</sub>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 <img align="right"
      src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/profile-3d-contrib/profile-green-animate.svg"
@@ -78,12 +58,12 @@
 
 ---
 
-# 🛡️ Cybersecurity Interests
+## 🛡️ Cybersecurity Interests
 
 <div align="center">
 
 | Domain | Focus Area |
-|:---:|---|
+|---|---|
 | 🔎 **SOC Operations** | Alert triage, log monitoring, escalation workflows |
 | 🚨 **Incident Response** | Identifying, containing, and analyzing security incidents |
 | 🕵️ **Threat Hunting** | Proactively searching for hidden threats in networks/logs |
@@ -99,18 +79,18 @@
 
 ---
 
-# ⚙️ Technical Skills
+## ⚙️ Technical Skills
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <br/><br/>
 
-### 🖥️ Systems & Development
+### Systems & Tools
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -119,7 +99,7 @@
 
 <br/><br/>
 
-### 🛡️ Security Tools
+### Security Tools
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -128,7 +108,7 @@
 
 <br/><br/>
 
-### 📊 Security Platforms & Networking
+### Security Platforms
 
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white"/>
@@ -138,7 +118,7 @@
 
 ---
 
-# 📈 Currently Learning
+## 📈 Currently Learning
 
 <div align="center">
 
@@ -173,21 +153,21 @@
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 <div align="center">
 
 | Role | Organization | Duration |
-|:---|:---|:---:|
-| 🔐 Cybersecurity Intern — CMS Penetration Testing (Global Program) | **BCBUZZ** | May 2026 |
-| 🔐 Cybersecurity Intern | **Prodigy InfoTech** | Apr 2026 |
-| 🔐 Cybersecurity Intern | **SkillCraft Technology** | Apr 2026 |
+|---|---|---|
+| Cybersecurity Intern — CMS Penetration Testing (Global Program) | **BCBUZZ** | May 2026 |
+| Cybersecurity Intern | **Prodigy InfoTech** | Apr 2026 |
+| Cybersecurity Intern | **SkillCraft Technology** | Apr 2026 |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -198,7 +178,7 @@
 
 </div>
 
-### 🔹 Other Project Work
+### Other Project Work
 
 - 🤖 **AI Teacher** — AI-based system that analyzes teaching materials, generates summaries, and suggests improvements to teaching methods.
 - 🏠 **Hostel Monitoring System** — Centralized solution for monitoring and managing hostel activities.
@@ -215,31 +195,22 @@
 
 ---
 
-# 🚩 CTF Achievements
+## 🚩 CTF Achievements
 
 <div align="center">
 
 | Event | Result | Date |
-|:---|:---:|:---:|
-| 🏆 N1PH€RS 3.0 International CTF — St. Joseph's Institute of Technology | 🥉 **9th Place** | Aug 2026 |
-| 🚩 z0d1ak CTF Qualifiers — Team: BitBr34kers | **Rank #70 of 1,253** | Aug 2026 |
+|---|---|---|
+| N1PH€RS 3.0 International CTF — St. Joseph's Institute of Technology | 🥉 **9th Place** | Aug 2026 |
+| z0d1ak CTF Qualifiers (Team: BitBr34kers) | **Rank #70 of 1,253** | Aug 2026 |
 
 </div>
 
-### 🔐 Hands-on Exposure
-
-**Cryptography:**  
-MD5 collisions • Mersenne Twister state recovery • Custom LCG reversal
-
-**Web Security:**  
-CSRF • IDOR • SSTI • SQLi
-
-**Other Areas:**  
-Audio steganography • Binary analysis • Reverse engineering
+Hands-on exposure to **cryptography** (MD5 collisions, Mersenne Twister state recovery, custom LCG reversal), **web security** (CSRF, IDOR, SSTI, SQLi), **audio steganography**, and **binary/reverse engineering**.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -255,7 +226,7 @@ Audio steganography • Binary analysis • Reverse engineering
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -267,7 +238,7 @@ Audio steganography • Binary analysis • Reverse engineering
      alt="Top Languages"
      height="165"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevicyber28&theme=react&hide_border=true&background=0f2027&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c"
      alt="GitHub Streak"/>
@@ -276,7 +247,7 @@ Audio steganography • Binary analysis • Reverse engineering
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -295,7 +266,7 @@ Audio steganography • Binary analysis • Reverse engineering
 
 ---
 
-# 🧊 3D Contribution Graph
+## 🧊 3D Contribution Graph
 
 <div align="center">
 
@@ -307,16 +278,10 @@ Audio steganography • Binary analysis • Reverse engineering
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-### ✅ Completed
-
-- SOC & Log Analysis Fundamentals
-- Splunk Fundamentals
-- Wazuh Fundamentals
-
-### 🚀 Future Goals
-
+- ✅ Build strong fundamentals in SOC operations and log analysis
+- ✅ Gain hands-on proficiency with Splunk and Wazuh
 - ⬜ Complete more CTF challenges and publish detailed writeups
 - ⬜ Strengthen incident response and threat hunting skills
 - ⬜ Deepen knowledge of digital forensics and malware analysis
@@ -326,7 +291,7 @@ Audio steganography • Binary analysis • Reverse engineering
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
