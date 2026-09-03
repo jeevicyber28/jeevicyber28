@@ -327,5 +327,5 @@ alt="GitHub Streak"/>
      
 </div>
 
-THNAK 
+THANK YTOU FOR THIS VISITING FOR MY PROGILE 
 
