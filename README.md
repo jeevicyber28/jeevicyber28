@@ -304,6 +304,7 @@ alt="GitHub Streak"/>
 
 ---
 
+
 <div align="center">
 
 > _"The quieter you become, the more you are able to hear."_
@@ -311,6 +312,7 @@ alt="GitHub Streak"/>
 > — A reminder to observe, analyze, and defend with precision.
 
 <br>
+
 
 
 
