@@ -285,7 +285,7 @@ alt="GitHub Streak"/>
 ---
 
 
-# 📬 Connect With Me
+# 📬 Connect With ME
 
 <div align="center">
 
@@ -304,7 +304,7 @@ alt="GitHub Streak"/>
 </div>
 
 ---
-aasxjkflksadjiasjdioASJDI'AAJSDLJASLDJAL;ASJDL;aasD;Kaasl:Ka:SKD;AKSD;KkaSA;DK;AsKDaASDPAKSD'''AASKDASDDDD""QQSASSDASDASSDSc"""""
+
 <div align="center">
 
 
