@@ -19,16 +19,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%94%90;Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Learning+Threat+Hunting+%26+Digital+Forensics"
 alt="Typing SVG"/>
 </a>
-hu    
-
-
-
-
-
-
-
-
-
 
 <br><br>
 
@@ -192,6 +182,7 @@ alt="CYLAB Academy Writeups"/>
 
 ---
 
+
 # 🚩 CTF Achievements
 
 <div align="center">
@@ -202,6 +193,7 @@ alt="CYLAB Academy Writeups"/>
 | **z0d1ak CTF Qualifiers — Team BitBr34kers** | **Rank #70 / 1,253** | Aug 2026 |
 
 </div>
+
 
 ### 🔥 Hands-on Exposure
 
@@ -215,6 +207,8 @@ alt="CYLAB Academy Writeups"/>
 
 # 📜 Certifications
 
+
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -227,6 +221,7 @@ alt="CYLAB Academy Writeups"/>
 </div>
 
 ---
+
 
 # 📊 GitHub Statistics
 
@@ -246,6 +241,7 @@ height="165"/>
 alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
