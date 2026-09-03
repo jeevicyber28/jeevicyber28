@@ -309,6 +309,7 @@ alt="GitHub Streak"/>
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -320,10 +321,13 @@ alt="GitHub Streak"/>
 
 <br>
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"
      width="100%"/>
      
 </div>
 
 
+
 THANK YOU FOR VISITING MY PROFILE 
+IF ANY DOUBT DM.
