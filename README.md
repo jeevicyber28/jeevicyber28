@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <!-- ===================== HEADER ===================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
@@ -26,6 +24,7 @@ alt="Typing SVG"/>
 <br><br>
 
 
+
 <!-- ===================== BADGES ===================== -->
 
 <img src="https://komarev.com/ghpvc/?username=jeevicyber28&label=Profile%20Views&color=00ff9c&style=for-the-badge"
@@ -42,6 +41,7 @@ alt="Typing SVG"/>
 <br>
 
 ---
+
 
 # 🧑‍💻 About Me
 
