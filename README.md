@@ -169,7 +169,7 @@ alt="CYLAB Academy Writeups"/>
 
 - 🤖 **AI Teacher** — AI-based system that analyzes teaching materials, generates summaries, and suggests improvements to teaching methods.
 - 🏠 **Hostel Monitoring System** — Centralized solution for monitoring and managing hostel activities.
-- 🕵️ **AI Scam Detection System** — AI-based solution for identifying and analyzing potentially fraudulent or suspicious content.
+- 🕵️ **AI Scams Detection System** — AI-based solution for identifying and analyzing potentially fraudulent or suspicious content.
 
 ### 🔜 Upcoming Projects
 
