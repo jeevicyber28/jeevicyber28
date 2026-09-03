@@ -112,11 +112,13 @@ alt="Typing SVG"/>
 
 </div>
 
+
 ---
 
 # 📈 Currently Learning
 
 <div align="center">
+
 
 | Area | Progress |
 |:---:|:---:|
@@ -162,6 +164,7 @@ alt="CYLAB Academy Writeups"/>
 </div>
 
 ### 🔹 Other Project Work
+
 
 - 🤖 **AI Teacher** — AI-based system that analyzes teaching materials, generates summaries, and suggests improvements to teaching methods.
 - 🏠 **Hostel Monitoring System** — Centralized solution for monitoring and managing hostel activities.
