@@ -327,7 +327,5 @@ alt="GitHub Streak"/>
      
 </div>
 
+THNAK 
 
-
-THANK YOU FOR VISITING MY PROFILE 
-IF ANY DOUBT DM.
