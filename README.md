@@ -13,7 +13,6 @@
 
 <br><br>
 
-
 <!-- ===================== TYPING ===================== -->
 
 <a href="https://git.io/typing-svg">
@@ -183,7 +182,6 @@ alt="CYLAB Academy Writeups"/>
 
 ---
 
-
 # 🚩 CTF Achievements
 
 <div align="center">
@@ -208,8 +206,6 @@ alt="CYLAB Academy Writeups"/>
 
 # 📜 Certifications
 
-
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -222,7 +218,6 @@ alt="CYLAB Academy Writeups"/>
 </div>
 
 ---
-
 
 # 📊 GitHub Statistics
 
@@ -242,7 +237,6 @@ height="165"/>
 alt="GitHub Streak"/>
 
 </div>
-
 
 ---
 
@@ -308,7 +302,6 @@ alt="GitHub Streak"/>
 </a>
 
 </div>
-
 
 ---
 
