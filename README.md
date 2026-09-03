@@ -284,7 +284,6 @@ alt="GitHub Streak"/>
 
 ---
 
-
 # 📬 Connect With ME
 
 <div align="center">
@@ -301,7 +300,8 @@ alt="GitHub Streak"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>bye 
+</div>
+
 ---
 
 <div align="center">
