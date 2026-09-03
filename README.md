@@ -303,9 +303,7 @@ alt="GitHub Streak"/>
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
@@ -314,7 +312,6 @@ alt="GitHub Streak"/>
 > — A reminder to observe, analyze, and defend with precision.
 
 <br>
-ab
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"
      width="100%"/>
