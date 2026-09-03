@@ -302,7 +302,7 @@ alt="GitHub Streak"/>
 </a>
 
 </div>
-QWERTYUIOPASDFGHJKLZXCVBNM,
+hi 
 ---
 
 <div align="center">
