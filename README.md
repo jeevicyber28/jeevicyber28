@@ -13,6 +13,7 @@
 
 <br><br>
 
+
 <!-- ===================== TYPING ===================== -->
 
 <a href="https://git.io/typing-svg">
@@ -323,3 +324,6 @@ alt="GitHub Streak"/>
      width="100%"/>
      
 </div>
+
+
+THANK YOU FOR VISITING MY PROFILE 
