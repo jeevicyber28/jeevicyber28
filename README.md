@@ -19,9 +19,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%94%90;Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Learning+Threat+Hunting+%26+Digital+Forensics"
 alt="Typing SVG"/>
 </a>
+hu    
 
 
-sadjaksjdkadsjdd
+
+
+
+
+
+
+
+
 <br><br>
 
 <!-- ===================== BADGES ===================== -->
