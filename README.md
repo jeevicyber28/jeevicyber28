@@ -190,6 +190,8 @@ alt="CYLAB Academy Writeups"/>
 |:---|:---:|:---:|
 | **N1PH€RS 3.0 International CTF — St. Joseph's Institute of Technology** | 🥉 **9th Place** | Aug 2026 |
 | **z0d1ak CTF Qualifiers — Team BitBr34kers** | **Rank #70 / 1,253** | Aug 2026 |
+| ** first prize in mirage ctf2.0
+
 
 </div>
 
