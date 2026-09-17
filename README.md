@@ -215,26 +215,36 @@ alt="CYLAB Academy Writeups"/>
 
 <div align="center">
 
-### 🥉 N1PH€RS 3.0 International CTF
+## 🥉 N1PH€RS 3.0 International CTF
 
 <a href="./nipers%20ctf.jpeg">
+
 <img src="./nipers%20ctf.jpeg" width="750"/>
+
 </a>
+
+<br>
+
+<b>9th Place — International CTF</b>
 
 <br><br>
 
-### 🚩 z0d1ak CTF Qualifiers
+## 🚩 z0d1ak CTF Qualifiers
 
 <a href="./z0d1ak-certificate-bitbr34kers.pdf">
-📜 <b>View z0d1ak Certificate</b>
+
+📜 <b>View z0d1ak CTF Certificate</b>
+
 </a>
 
 <br><br>
 
-### 🥇 Mirage CTF 2.0
+## 🥇 Mirage CTF 2.0
 
 <a href="./amirta%20certificate%201st.pdf">
+
 📜 <b>View Mirage CTF Certificate</b>
+
 </a>
 
 </div>
@@ -277,6 +287,7 @@ alt="GitHub Streak"/>
 <div align="center">
 
 <picture>
+
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/gh-pages/github-contribution-grid-snake-dark.svg" />
 
