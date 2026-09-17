@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/jeeviraj_image.png"
+<img src="./jeeviraj_image.png"
      width="160"
      style="border-radius:50%; border:4px solid #00ff9c; box-shadow:0 0 20px #00ff9c;"
      alt="Jeeviraj V"/>
