@@ -2,8 +2,10 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/jeeviraj_image.png"
+     width="160"
+     style="border-radius:50%; border:4px solid #00ff9c; box-shadow:0 0 20px #00ff9c;"
+     alt="Jeeviraj V"/>
 <br>
 
 <img src="./jeeviraj_image.png"
