@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
@@ -13,16 +11,12 @@
 
 <br><br>
 
-<!-- ===================== TYPING ===================== -->
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%94%90;Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Learning+Threat+Hunting+%26+Digital+Forensics"
 alt="Typing SVG"/>
 </a>
 
 <br><br>
-
-<!-- ===================== BADGES ===================== -->
 
 <img src="https://komarev.com/ghpvc/?username=jeevicyber28&label=Profile%20Views&color=00ff9c&style=for-the-badge"
      alt="Profile Views"/>
@@ -220,37 +214,31 @@ alt="CYLAB Academy Writeups"/>
 ## 🥉 N1PH€RS 3.0 International CTF
 
 <a href="./nipers%20ctf.jpeg">
-
-<img src="./nipers%20ctf.jpeg" width="750"/>
-
+<img src="./nipers%20ctf.jpeg" width="450"/>
 </a>
 
 <br>
 
 <b>9th Place — International CTF</b>
 
-<br><br><br>
+<br><br>
 
 ## 🚩 z0d1ak CTF Qualifiers
 
 <a href="./z0d1ak-certificate.png">
-
-<img src="./z0d1ak-certificate.png" width="750"/>
-
+<img src="./z0d1ak-certificate.png" width="450"/>
 </a>
 
 <br>
 
 <b>Rank #69 / 1,252 — Team BitBr34kers</b>
 
-<br><br><br>
+<br><br>
 
 ## 🥇 Mirage CTF 2.0
 
 <a href="./mirage-ctf-certificate.png">
-
-<img src="./mirage-ctf-certificate.png" width="750"/>
-
+<img src="./mirage-ctf-certificate.png" width="450"/>
 </a>
 
 <br>
