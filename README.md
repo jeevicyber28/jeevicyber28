@@ -2,7 +2,7 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeeviraj%20V&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -174,6 +174,8 @@ alt="CYLAB Academy Writeups"/>
 - 🎣 **Phishing Detection**
 - 🏫 **College Hub**
 
+> 📌 Repos for the above will be linked here once published. More CTF writeups added regularly.
+
 ---
 
 # 🏆 Achievements
@@ -195,13 +197,13 @@ alt="CYLAB Academy Writeups"/>
 
 <tr>
 <td><b>z0d1ak CTF Qualifiers</b></td>
-<td>🏅 Rank #70 / 1,253</td>
+<td>🏅 Rank #69 / 1,252</td>
 <td>🔐 CTF Competition</td>
 </tr>
 
 <tr>
 <td><b>Mirage CTF 2.0</b></td>
-<td>🥇 First Prize</td>
+<td>🥇 1st Place</td>
 <td>🚩 CTF Competition</td>
 </tr>
 
@@ -227,25 +229,33 @@ alt="CYLAB Academy Writeups"/>
 
 <b>9th Place — International CTF</b>
 
-<br><br>
+<br><br><br>
 
 ## 🚩 z0d1ak CTF Qualifiers
 
-<a href="./z0d1ak-certificate-bitbr34kers.pdf">
+<a href="./z0d1ak-certificate.png">
 
-📜 <b>View z0d1ak CTF Certificate</b>
+<img src="./z0d1ak-certificate.png" width="750"/>
 
 </a>
 
-<br><br>
+<br>
+
+<b>Rank #69 / 1,252 — Team BitBr34kers</b>
+
+<br><br><br>
 
 ## 🥇 Mirage CTF 2.0
 
-<a href="./amirta%20certificate%201st.pdf">
+<a href="./mirage-ctf-certificate.png">
 
-📜 <b>View Mirage CTF Certificate</b>
+<img src="./mirage-ctf-certificate.png" width="750"/>
 
 </a>
+
+<br>
+
+<b>1st Place — Mirage CTF 2.0</b>
 
 </div>
 
