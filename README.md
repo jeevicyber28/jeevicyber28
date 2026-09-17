@@ -53,7 +53,7 @@ alt="Typing SVG"/>
 - 💼 Completed cybersecurity internships in **penetration testing and security analysis**.
 - 📚 Currently learning **SOC Operations, Incident Response, Threat Hunting, Digital Forensics, Malware Analysis, and DevOps/Security Automation**.
 - 🔭 Practicing with **Splunk** and **Wazuh** for log analysis and SIEM operations.
-- ✍️ I document my learning and CTF solutions in my [**CYLAB Academy Writeups**](https://github.com/jeevicyber28/CYLAB-Academy-Writeups) repository.
+- ✍️ I document my learning and CTF solutions in my [**CYLAB Academy Writeups**](https://github.com/jeevicyber28/CYLAB-Academy-Writeups)
 - 📫 Reach me at **jeevicyber28@gmail.com**
 
 <br clear="right"/>
@@ -92,14 +92,12 @@ alt="Typing SVG"/>
 
 ### 🐧 Systems & Tools
 
-
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 ### 🔐 Security Tools
-
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -119,7 +117,6 @@ alt="Typing SVG"/>
 # 📈 Currently Learning
 
 <div align="center">
-
 
 | Area | Progress |
 |:---:|:---:|
@@ -166,7 +163,6 @@ alt="CYLAB Academy Writeups"/>
 
 ### 🔹 Other Project Work
 
-
 - 🤖 **AI Teacher** — AI-based system that analyzes teaching materials, generates summaries, and suggests improvements to teaching methods.
 - 🏠 **Hostel Monitoring System** — Centralized solution for monitoring and managing hostel activities.
 - 🕵️ **AI Scams Detection System** — AI-based solution for identifying and analyzing potentially fraudulent or suspicious content.
@@ -178,46 +174,80 @@ alt="CYLAB Academy Writeups"/>
 - 🎣 **Phishing Detection**
 - 🏫 **College Hub**
 
-> 📌 Repos for the above will be linked here once published. More CTF writeups added regularly.
-
 ---
 
-# 🚩 CTF Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-| 🏆 Event | 🎯 Result | 📅 Date |
-|:---|:---:|:---:|
-| **N1PH€RS 3.0 International CTF — St. Joseph's Institute of Technology** | 🥉 **9th Place** | Aug 2026 |
-| **z0d1ak CTF Qualifiers — Team BitBr34kers** | **Rank #70 / 1,253** | Aug 2026 |
-| ** first prize in mirage ctf2.0
+<table>
+<tr>
+<th>🏆 Event Name</th>
+<th>📍 Place / Result</th>
+<th>🎯 Event Type</th>
+</tr>
 
+<tr>
+<td><b>N1PH€RS 3.0 International CTF</b></td>
+<td>🥉 9th Place</td>
+<td>🚩 International CTF</td>
+</tr>
+
+<tr>
+<td><b>z0d1ak CTF Qualifiers</b></td>
+<td>🏅 Rank #70 / 1,253</td>
+<td>🔐 CTF Competition</td>
+</tr>
+
+<tr>
+<td><b>Mirage CTF 2.0</b></td>
+<td>🥇 First Prize</td>
+<td>🚩 CTF Competition</td>
+</tr>
+
+</table>
 
 </div>
 
+---
 
-### 🔥 Hands-on Exposure
+# 📜 Certificates & Achievement Proof
+
+<div align="center">
+
+### 🥉 N1PH€RS 3.0 International CTF
+
+<a href="./nipers%20ctf.jpeg">
+<img src="./nipers%20ctf.jpeg" width="750"/>
+</a>
+
+<br><br>
+
+### 🚩 z0d1ak CTF Qualifiers
+
+<a href="./z0d1ak-certificate-bitbr34kers.pdf">
+📜 <b>View z0d1ak Certificate</b>
+</a>
+
+<br><br>
+
+### 🥇 Mirage CTF 2.0
+
+<a href="./amirta%20certificate%201st.pdf">
+📜 <b>View Mirage CTF Certificate</b>
+</a>
+
+</div>
+
+---
+
+# 🔥 Hands-on Exposure
 
 **Cryptography:** MD5 collisions, Mersenne Twister state recovery, custom LCG reversal
 
 **Web Security:** CSRF, IDOR, SSTI, SQLi
 
 **Other:** Audio steganography, binary analysis & reverse engineering
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Data%20Analysis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OWASP-Certificate-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-
-</div>
 
 ---
 
@@ -287,7 +317,7 @@ alt="GitHub Streak"/>
 
 ---
 
-# 📬 Connect With ME
+# 📬 Connect With Me
 
 <div align="center">
 
@@ -296,7 +326,7 @@ alt="GitHub Streak"/>
 </a>
 
 <a href="mailto:jeevicyber28@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D1485C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jeevicyber28">
@@ -305,22 +335,17 @@ alt="GitHub Streak"/>
 
 </div>
 
----
-
+<br>
 
 <div align="center">
 
-
 > _"The quieter you become, the more you are able to hear."_
->
+
 > — A reminder to observe, analyze, and defend with precision.
 
 <br>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"
      width="100%"/>
-     
+
 </div>
-
-
