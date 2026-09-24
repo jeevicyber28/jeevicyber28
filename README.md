@@ -15,6 +15,8 @@
 
 <br><br>
 
+
+
 <!-- ===================== TYPING ===================== -->
 
 <a href="https://git.io/typing-svg">
@@ -149,6 +151,7 @@ alt="Typing SVG"/>
 </div>
 
 ---
+
 
 # 🚀 Featured Projects
 
