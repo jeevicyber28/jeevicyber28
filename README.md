@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- ===================== PROFILE PHOTO & BADGE ===================== -->
+<!-- ===================== 3D WAVING TOP BANNER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:1f2937,75:991b1b,100:ef4444&height=190&section=header&text=JEEVIRAJ%20V&fontSize=40&fontAlignY=36&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20SOC%20Analyst&descFontSize=16&descAlignY=58&fontColor=ffffff" width="100%" alt="Jeeviraj V 3D Banner"/>
+
+<!-- ===================== 3D FLOATING PROFILE AVATAR ===================== -->
+<br>
 <a href="https://jeevicyber28.github.io/">
   <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/profile.jpg"
-       width="150"
-       height="150"
-       style="border-radius:50%; border:3px solid #ef4444; box-shadow:0 0 25px rgba(239,68,68,0.45); object-fit:cover;"
+       width="145"
+       height="145"
+       style="border-radius:50%; border:3.5px solid #ef4444; box-shadow:0 15px 35px rgba(239,68,68,0.55), 0 0 25px rgba(239,68,68,0.35); object-fit:cover;"
        alt="Jeeviraj V - Cybersecurity Analyst"/>
 </a>
 
@@ -14,7 +18,7 @@
 # Hi there, I'm <span style="color:#ef4444;">Jeeviraj V</span> 🛡️
 ### Cybersecurity Analyst &bull; Ethical Hacker &bull; Tournament CTF Player
 
-<!-- ===================== TYPING SVG BANNER (RED CYBER THEME) ===================== -->
+<!-- ===================== 3D TYPING SVG BANNER (RED CYBER THEME) ===================== -->
 <a href="https://jeevicyber28.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=700&lines=B.E.+Cybersecurity+Student+at+Sri+Shakthi+Institute;1st+Place+Champion+%E2%80%94+Mirage+CTF+2.0+(9%2C108+pts);1st+Place+Winner+%E2%80%94+AURA+CTF+(Won+Internship);Rank+%236+Globally+%E2%80%94+CSS+CTF+Sydney+(799+Teams);Top+10+Finalist+%E2%80%94+Hackers+Gambit+24h+Grand+Finale;SOC+Operations+%7C+Incident+Response+%7C+Threat+Hunting"
        alt="Jeeviraj Typing Header"/>
@@ -22,7 +26,7 @@
 
 <br><br>
 
-<!-- ===================== QUICK LINKS PILLS ===================== -->
+<!-- ===================== QUICK LINKS 3D PILLS ===================== -->
 <a href="https://jeevicyber28.github.io/">
   <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-ef4444?style=for-the-badge&logoColor=white" alt="Live Portfolio"/>
 </a>
@@ -38,11 +42,18 @@
 
 <br><br>
 
-<!-- ===================== STATS / STATUS BADGES ===================== -->
+<!-- ===================== 3D STATUS BADGES ===================== -->
 <img src="https://komarev.com/ghpvc/?username=jeevicyber28&label=Profile%20Views&color=ef4444&style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/CGPA-8.01%20%7C%200%20Arrears-ef4444?style=flat-square" alt="CGPA"/>
 <img src="https://img.shields.io/badge/Credentials-24%2B%20Verified%20Awards-10b981?style=flat-square" alt="Awards"/>
 <img src="https://img.shields.io/badge/Status-Tournament%20Tested%20%26%20Open%20to%20Roles-blue?style=flat-square" alt="Status"/>
+
+<br><br>
+
+<!-- ===================== 3D METALLIC TROPHIES ===================== -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevicyber28&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -77,48 +88,10 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 | **$N1PH3RS 3.0 / Exorcists × TamilCTF** | St. Joseph's College, Chennai | **🎖️ Top 6th Place** | **2,428 pts**, 8 tough solves, **Earned Official Internship** |
 | **z0d1ak CTF Qualifiers** | Global Field | **🌐 Rank #70 / 1,253 Teams** | Binary, Web, and Crypto tracks (BitBr34kers) |
 
-</div>
+<br>
 
----
-
-## 📸 Verified Tournament & Certificate Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <b>🏆 Mirage CTF 2.0 — Rank #1 Scoreboard (9,108 pts)</b><br><br>
-  <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/mirage_1st_scoreboard.jpg" width="100%" alt="Mirage CTF 1st Place Scoreboard"/>
-</td>
-<td width="50%" align="center">
-  <b>🥇 AURA CTF — 1st Place Stage Ceremony & Internship</b><br><br>
-  <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/aura_ctf_win.png" width="100%" alt="AURA CTF Award Ceremony"/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <b>🎯 Hackers Gambit — 24h Offline Grand Finale Scoreboard</b><br><br>
-  <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/hackers_gambit.jpg" width="100%" alt="Hackers Gambit Top 10 Scoreboard"/>
-</td>
-<td width="50%" align="center">
-  <b>🎖️ $N1PH3RS 3.0 / Exorcists × TamilCTF Top 6 Banner</b><br><br>
-  <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/sn1ph3rs_top6_banner.jpg" width="100%" alt="Exorcists x TamilCTF Top 6 Banner"/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <b>📜 Dooms CTF — Jerusalem College Official Certificate</b><br><br>
-  <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/dooms_ctf_cert.jpg" width="100%" alt="Dooms CTF Certificate"/>
-</td>
-<td width="50%" align="center">
-  <b>🏢 Mirage CTF — 16-Hour Hackathon Arena (Amrita Campus)</b><br><br>
-  <img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/mirage_hackathon_hall.jpg" width="100%" alt="Mirage Hackathon Arena"/>
-</td>
-</tr>
-</table>
-
-👉 *Click to view all 24 verified credentials on my [Live Portfolio](https://jeevicyber28.github.io/#certifications).*
+> 🔍 **Inspect All 24 Verified Certificates & Award Photos:**  
+> High-resolution award ceremony photos, official scoreboards, and certificates are available with interactive 3D lightbox view on my **[Live Portfolio Website ↗](https://jeevicyber28.github.io/#achievements)**.
 
 </div>
 
@@ -127,6 +100,13 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ## 🛠️ Technical Skills & Arsenal
 
 <div align="center">
+
+<!-- 3D Isometric Skill Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,bash,c,cpp,linux,kali,docker,git,github,fastapi,react,postgres,sqlite,wireshark&perline=8&theme=dark" alt="Technical Arsenal"/>
+</a>
+
+<br><br>
 
 ### 💻 Languages & Scripting
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -153,15 +133,6 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 <img src="https://img.shields.io/badge/Autopsy%20Forensics-2C3E50?style=for-the-badge&logo=datagrip&logoColor=white" alt="Autopsy"/>
 <img src="https://img.shields.io/badge/Ghidra-Binary%20Analysis-9333ea?style=for-the-badge" alt="Ghidra"/>
 
-<br>
-
-### 🐧 Platforms & Infrastructure
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
 </div>
 
 ---
@@ -185,6 +156,18 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 <a href="https://github.com/jeevicyber28/soc-nexus-ai-nids">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevicyber28&repo=soc-nexus-ai-nids&theme=dark&title_color=ef4444&icon_color=ef4444&text_color=e2e8f0&bg_color=0b0f19&border_color=ef444433" alt="SOC Nexus AI NIDS"/>
 </a>
+
+</div>
+
+---
+
+## 🧊 3D Contribution Landscape
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jeevicyber28/jeevicyber28/main/profile-3d-contrib/profile-green-animate.svg"
+     alt="3D Animated Contribution Graph"
+     width="100%"/>
 
 </div>
 
