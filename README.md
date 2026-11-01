@@ -13,6 +13,8 @@
        alt="Jeeviraj V - Cybersecurity Analyst"/>
 </a>
 
+
+
 <br><br>
 
 # Hi there, I'm <span style="color:#ef4444;">Jeeviraj V</span> 🛡️
@@ -56,7 +58,7 @@
 </a>
 
 </div>
-
+..
 ---
 
 ## 📌 Executive Summary
@@ -73,6 +75,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ## 🏆 CTF & Hackathon Hall of Fame
 
 <div align="center">
+
 
 | 🏆 Tournament | 📍 Host / Organization | 🏅 Standing / Result | ⚡ Highlights & Rewards |
 |:---|:---|:---:|:---|
@@ -94,7 +97,6 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 > High-resolution award ceremony photos, official scoreboards, and certificates are available with interactive 3D lightbox view on my **[Live Portfolio Website ↗](https://jeevicyber28.github.io/#achievements)**.
 
 </div>
-
 ---
 
 ## 🛠️ Technical Skills & Arsenal
@@ -134,7 +136,6 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 <img src="https://img.shields.io/badge/Ghidra-Binary%20Analysis-9333ea?style=for-the-badge" alt="Ghidra"/>
 
 </div>
-
 ---
 
 ## 🚀 Featured Repositories & Security Projects
@@ -184,7 +185,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevicyber28&layout=compact&theme=dark&hide_border=true&bg_color=0b0f19&title_color=ef4444&text_color=e2e8f0"
      alt="Top Languages"
      height="165"/>
-
+.
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevicyber28&theme=dark&hide_border=true&background=0b0f19&ring=ef4444&fire=ef4444&currStreakLabel=ef4444"
