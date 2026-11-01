@@ -83,7 +83,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 | **Mirage CTF 2.0** | Amrita Vishwa Vidyapeetham | **🏆 1st Prize Winner** | 16-Hour Hackathon, **Rank #1 (9,108 pts & 53 solves)** |
 | **Hackers Gambit CTF** | Jaihind College of Engg, Maharashtra | **🎯 Rank #10 / Grand Finale Selected** | **Selected for 24-Hour Offline Grand Finale** (34,050 pts, 64 solves) |
 | **CSS CTF 2026: Return of Nexus** | Cybersecurity Society Sydney (Australia) | **🇦🇺 Rank #6 Global (799 Teams)** | 40-Hour Marathon, **2,066.000 pts** across 1,000+ competitors |
-| **Mirage CTF International** | International Division | **🛡️ Rank #6 International** | **Won Internship with K7 Academy** & Security Vouchers |
+| **Mirage CTF International** | International Division | **🛡️ Rank #1 national** |  & Security Vouchers |
 | **GopwnIt CTF** | GopwnIt Cyber Security | **⚡ Solo Winner** | **n8n Cloud Subscription**, Cash Vouchers & Thunder Cipher Award |
 | **Sri Shakthi Intra-College CTF** | Sri Shakthi Institute of Engg & Tech | **🥇 1st Place Whole College** | Champion across entire college student body |
 | **Dooms CTF** | Jerusalem College of Engineering | **🚀 4th Place Milestone** | Inaugural competitive CTF milestone that started the journey |
