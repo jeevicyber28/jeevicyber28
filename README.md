@@ -229,9 +229,9 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
   <img src="https://img.shields.io/badge/Email-jeevicyber28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-..
+......
 <br><br>
-
+......
 > *"The quieter you become, the more you are able to hear."*  
 > *Defending digital infrastructure with precision, vigilance, and persistence.*
 
@@ -241,8 +241,4 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
      width="100%"/>
 
 </div>
-
-
-
-'
 
