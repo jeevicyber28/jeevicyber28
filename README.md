@@ -14,6 +14,9 @@
 </a>
 
 
+
+
+
 <br><br>
 
 # Hi there, I'm <span style="color:#ef4444;">Jeeviraj V</span> 🛡️
@@ -40,7 +43,11 @@
 <a href="mailto:jeevicyber28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-jeevicyber28-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-,.
+,..........................
+.
+.
+.
+
 <br><br>
 
 <!-- ===================== 3D STATUS BADGES ===================== -->
