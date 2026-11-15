@@ -13,7 +13,6 @@
        alt="Jeeviraj V - Cybersecurity Analyst"/>
 </a>
 
-
 <br><br>
 
 # Hi there, I'm <span style="color:#ef4444;">Jeeviraj V</span> 🛡️
@@ -40,7 +39,7 @@
 <a href="mailto:jeevicyber28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-jeevicyber28-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-,.
+
 <br><br>
 
 <!-- ===================== 3D STATUS BADGES ===================== -->
@@ -57,7 +56,7 @@
 </a>
 
 </div>
-..
+
 ---
 
 ## 📌 Executive Summary
@@ -74,7 +73,6 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ## 🏆 CTF & Hackathon Hall of Fame
 
 <div align="center">
-
 
 | 🏆 Tournament | 📍 Host / Organization | 🏅 Standing / Result | ⚡ Highlights & Rewards |
 |:---|:---|:---:|:---|
@@ -216,7 +214,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
-
+.
 <a href="https://jeevicyber28.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-jeevicyber28.github.io-ef4444?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
 </a>
@@ -229,9 +227,8 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
   <img src="https://img.shields.io/badge/Email-jeevicyber28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-......
+
 <br><br>
-......
 > *"The quieter you become, the more you are able to hear."*  
 > *Defending digital infrastructure with precision, vigilance, and persistence.*
 
