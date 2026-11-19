@@ -25,9 +25,6 @@
 </a>
 
 <br><br>
-....
-....
-
 
 <!-- ===================== QUICK LINKS 3D PILLS ===================== -->
 <a href="https://jeevicyber28.github.io/">
@@ -70,6 +67,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 - 🛡️ **Defensive & SIEM Operations:** Building automated alert triage workflows and detection pipelines with **Splunk**, **Wazuh**, and **Linux/Sysmon**.
 - ⚔️ **Tournament Competitor:** Core member & captain of **Team BitBr34kers**, competing in 24-hour national hackathons, offline Grand Finales, and international CTF tournaments across Web Exploitation, Reverse Engineering, Cryptography, Forensics, and OSINT.
 - 💼 **Industry Experience:** Completed hands-on security internships with **SkillCraft Technology**, **Prodigy InfoTech**, **BCBuzz Technologies**, and earned internship offers through championship wins (**AURA CTF**, **Mirage CTF / K7 Academy**, **$N1PH3RS 3.0**).
+
 
 ---
 
@@ -175,7 +173,6 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ---
 
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -195,7 +192,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 
 </div>
 
----
+----
 
 ## 🐍 Contribution Activity
 
