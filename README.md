@@ -197,6 +197,8 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ## 🐍 Contribution Activity
 
 <div align="center">
+...
+....
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
