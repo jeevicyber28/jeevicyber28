@@ -173,7 +173,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ---
 
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytic
 
 <div align="center">
 
@@ -216,7 +216,8 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
-.
+...
+  
 <a href="https://jeevicyber28.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-jeevicyber28.github.io-ef4444?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
 </a>
@@ -235,9 +236,8 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 > *Defending digital infrastructure with precision, vigilance, and persistence.*
 
 <br>
-.......
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:991b1b,100:ef4444&height=110&section=footer"
      width="100%"/>
 
 </div>
-
