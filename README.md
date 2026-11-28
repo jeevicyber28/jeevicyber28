@@ -160,7 +160,7 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 
 ---
 
-## 🧊 3D Contribution Landscape
+## 🧊 3D Contribution Landscapes
 
 <div align="center">
 
@@ -173,7 +173,9 @@ I am a **Cybersecurity undergraduate & Ethical Hacker** currently pursuing my **
 ---
 
 
-## 📊 GitHub Analytic
+...
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
